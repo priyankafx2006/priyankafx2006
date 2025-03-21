@@ -208,7 +208,7 @@ Coding:
 <!-- Header -->
 <header>
     <img  src="Priyanka Betzi Xavier.jpeg" width="120" height="120">
-    <h1>Dhanush S</h1>
+    <h1>priyanka Betzi Xavier</h1>
     <h2>Student at Patrician College</h2>
     <nav>
         <a href="#about">About</a>
